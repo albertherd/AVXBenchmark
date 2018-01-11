@@ -1,5 +1,10 @@
 ﻿  main.c
-f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(47): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
-f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(48): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
-f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(52): warning C4101: 'result': unreferenced local variable
+f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(127): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
+f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(128): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
+f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(139): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
+f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(140): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
+f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(151): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
+f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(152): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
+f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(164): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
+f:\dev\throwaway\simdbenchmark\simdbenchmark\main.c(165): warning C4133: 'function': incompatible types - from '__m256 *' to 'const float *'
   SIMDBenchmark.vcxproj -> F:\dev\throwaway\SIMDBenchmark\Debug\SIMDBenchmark.exe
